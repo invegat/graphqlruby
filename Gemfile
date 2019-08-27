@@ -27,7 +27,7 @@ gem 'graphql', '>= 1.8.13'
 gem 'bcrypt', '>= 3.1.13'
 gem 'search_object', '>= 1.2.2'
 gem 'search_object_graphql', '>= 0.2'
-
+gem 'unicorn'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
